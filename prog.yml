@@ -27,7 +27,7 @@ versionSpec: '$(python.version)'
 
 displayName: 'Use Python $(python.version)'
 
-- script: python "sample.py"
+- script: python "add.py"
 
 
 - task: PythonScript@0
